@@ -1,0 +1,7 @@
+.git
+.vs
+obj/*
+packages/*
+RhinoEmCity/bin/*
+RhinoEmCity/obj/*
+RhinoEmCity/packages/*
